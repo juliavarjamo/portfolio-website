@@ -1,0 +1,21 @@
+.name {
+    color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 12px;
+    margin: 0 15px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 15px;
+}
+
+.navbar a {
+    color: black;
+    padding: 10px;
+    margin: 0 15px;
+}
