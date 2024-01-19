@@ -3,7 +3,8 @@
     position: fixed;
     top: 0;
     left: 0;
-    padding: 12px;
+    padding: 10px;
+    padding-top: 17px;
     margin: 0 15px;
 }
 
@@ -11,11 +12,16 @@
     position: fixed;
     top: 0;
     right: 0;
-    padding: 15px;
+    padding: 10px;
 }
 
-.navbar a {
+.navbar #navlink {
     color: black;
     padding: 10px;
     margin: 0 15px;
+    outline: none;
+}
+
+.navbar #navlink:hover {
+    color: gray;
 }
