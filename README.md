@@ -1,5 +1,5 @@
 # portfolio-website
-A personal website portfolio for displaying 3D models and graphic designs. 
+A website portfolio for Leevi Oksanen displaying his 3D models and graphic designs. 
 
 # React + Vite
 
