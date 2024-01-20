@@ -1,10 +1,12 @@
 import React from 'react';
-import '../Navigation.css';
+import './Home.css';
 
 function HomePage() {
     return (
-        <div>
-            <h2>home page </h2>
+        <div className='container'>
+            <div className='header'>
+                <h1>PORTFOLIO</h1>
+            </div>
         </div>
     );
 };
