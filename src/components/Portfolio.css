@@ -1,0 +1,42 @@
+.graphic {
+    position: fixed;
+    top: 65px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spiderman {
+    flex: 1;
+}
+
+img {
+    height: 40vh;
+    width: auto;
+    padding: 10px;
+}
+
+.text h2 {
+    letter-spacing: 2px;
+}
+
+.text {
+    flex: 1;
+    text-align: justify;
+    padding: 10px;
+    margin-right: 25px;
+}
+
+.link #graphiclink {
+    color: black;
+    outline: none;
+    display: flex;
+    align-items: center;
+}
+
+.link #graphiclink:hover {
+    color: gray;
+}
